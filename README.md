@@ -45,6 +45,10 @@ module.exports = [
 
 ## Changelog
 
+ * [0.1.2](https://github.com/ooxi/webpack-configuration-templates/releases/tag/v0.1.2)
+   * Unfortunately v0.1.0 was published after v0.1.1, resulting in npmjs
+     displaying the wrong version as latest
+
  * [0.1.1](https://github.com/ooxi/webpack-configuration-templates/releases/tag/v0.1.1)
    * Published on npm
    * [mini-cross](https://github.com/ooxi/mini-cross) support
