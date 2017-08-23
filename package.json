@@ -1,0 +1,23 @@
+{
+  "name": "webpack-configuration-templates",
+  "version": "0.1.0",
+
+  "description": "A couple of webpack configuration templates",
+  "keywords": [
+    "webpack",
+    "typescript",
+    "template"
+  ],
+
+  "homepage": "https://github.com/ooxi/webpack-configuration-templates",
+  "bugs": "https://github.com/ooxi/webpack-configuration-templates/issues",
+
+  "license": "Zlib",
+  "author": "ooxi <violetland@mail.ru>",
+
+  "main": "src/webpack-configuration-template.js",
+
+  "dependencies": {
+    "lodash.assign": "^4.2.0"
+  }
+}
