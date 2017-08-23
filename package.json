@@ -1,6 +1,6 @@
 {
   "name": "webpack-configuration-templates",
-  "version": "0.1.0",
+  "version": "0.1.1",
 
   "description": "A couple of webpack configuration templates",
   "keywords": [
@@ -9,11 +9,15 @@
     "template"
   ],
 
-  "homepage": "https://github.com/ooxi/webpack-configuration-templates",
-  "bugs": "https://github.com/ooxi/webpack-configuration-templates/issues",
-
   "license": "Zlib",
   "author": "ooxi <violetland@mail.ru>",
+
+  "homepage": "https://github.com/ooxi/webpack-configuration-templates",
+  "bugs": "https://github.com/ooxi/webpack-configuration-templates/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ooxi/webpack-configuration-templates.git"
+  },
 
   "main": "src/webpack-configuration-template.js",
 
